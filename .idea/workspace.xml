@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79512406-b3e3-4fe5-a1d1-4651c2014e61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/odpscmd_kernel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odpscmd_kernel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odpscmd_kernel/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odpscmd_kernel/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odpscmd_kernel/kernel.py" beforeDir="false" afterPath="$PROJECT_DIR$/odpscmd_kernel/kernel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22pKCIXNgISyOUJB9183OTm5v0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79512406-b3e3-4fe5-a1d1-4651c2014e61" name="Default Changelist" comment="" />
+      <created>1640528959996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640528959996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="426" width="1371" height="587" key="DiffContextDialog" timestamp="1645364187252">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="355" y="426" width="1371" height="587" key="DiffContextDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1645364187252" />
+    <state x="546" y="35" key="SettingsEditor" timestamp="1640528977842">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="546" y="35" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1640528977842" />
+  </component>
+</project>
